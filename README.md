@@ -6,6 +6,8 @@
 
 Automatic PDF shipping label printing for thermal printers. Works with any carrier API — no operator configuration required.
 
+Article on Dev.to → [Printing Shipping Labels in C#: When Every Carrier Has Their Own Standard](https://dev.to/stackcollider/printing-shipping-labels-in-c-when-every-carrier-has-their-own-standard-1298)
+
 ---
 
 ## The Problem
@@ -282,3 +284,17 @@ await PDFtoPrinter.PrintAsync(printerName, printPath);
 ---
 
 *STACKCOLLIDER & Nexus Claude*
+
+
+---
+
+## License
+
+MIT. `PDFtoPrinter.exe` is a third-party freeware utility with its own license; it is included only for convenience.
+
+## More from StackCollider
+
+- [Sewing Patterns Without Writing Code: When Forty Years of Experience Meet Claude](https://dev.to/stackcollider/sewing-patterns-without-writing-code-when-forty-years-of-experience-meet-claude-gf5) · [code](https://github.com/stackcollider/leeloopattern) · [video](https://www.youtube.com/watch?v=gx1tOTznrew)
+- [RDLC Without BC: When the Feedback Loop Is Longer Than the Workday](https://dev.to/stackcollider/rdlc-without-bc-when-the-feedback-loop-is-longer-than-the-workday-19im) · [code](https://github.com/stackcollider/rdlc-report-tester)
+- [Business Central Without the Grind: When You Can Tell Claude What You Want](https://dev.to/stackcollider/business-central-without-the-grind-when-you-can-tell-claude-what-you-want-1o2c)
+- YouTube: [@StackCollider](https://www.youtube.com/@StackCollider)
